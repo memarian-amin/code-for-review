@@ -1,0 +1,1 @@
+Dynamically generate a migration for customers.
